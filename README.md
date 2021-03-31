@@ -21,7 +21,7 @@
 
 ## Схема
 
-![комбинационная схема БОЭ](https://github.com/salvoronis/FFBD_lab1/blob/master/img/schema.jpg)
+![комбинационная схема БОЭ](https://github.com/salvoronis/FFBD_lab2/blob/master/img/schema.jpg)
 
 ## Исходный код разработанного тестового окружения
 
@@ -33,11 +33,11 @@ gun.v
 
 ## Временная диаграмма
 
-![Временная диаграмма](https://github.com/salvoronis/FFBD_lab1/blob/master/img/graph.png)
+![Временная диаграмма](https://github.com/salvoronis/FFBD_lab2/blob/master/img/graph.png)
 
 ## Расход ресурсов на fpga
 
-![Временная диаграмма](https://github.com/salvoronis/FFBD_lab1/blob/master/img/util.png)
+![Временная диаграмма](https://github.com/salvoronis/FFBD_lab2/blob/master/img/util.png)
 
 ## Заключение
 В ходе лабораторной работы мы поняли, что у нас самый лёгкий вариант из всех и нас это порадовало. Поняли, что прям сходу мы всё равно задачу не решим и это нас расстроило.
