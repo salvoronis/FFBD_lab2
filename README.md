@@ -21,7 +21,7 @@
 
 ## Схема
 
-![комбинационная схема БОЭ](https://github.com/salvoronis/FFBD_lab2/blob/master/img/schema.jpg)
+![комбинационная схема БОЭ](https://github.com/salvoronis/FFBD_lab2/blob/master/img/schema.png)
 
 ## Исходный код разработанного тестового окружения
 
